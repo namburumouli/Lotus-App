@@ -1,2 +1,4 @@
-# Lotus-App
-Lotus App
+# demo app 
+
+terms and condition
+
